@@ -1,4 +1,4 @@
-# ConvertidorDeMonedas
+# Convertidor De Monedas
 Este proyecto es un convertidor de moneda desarrollado en Java que utiliza la API de tipos de cambio para realizar conversiones entre diferentes monedas.
 
 Funcionalidades
